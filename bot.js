@@ -5,7 +5,7 @@ bot.on('message', message => {
     if(message.content.toLowerCase() === 'sen kafayı sıyırmışsın'){
       message.reply(':`)')
     }
-})kafa 
+}) //kafa 
 
 
 bot.on('ready', () => {
