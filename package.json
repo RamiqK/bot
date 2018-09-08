@@ -1,9 +1,10 @@
 {
-  "name": "YýkýkBot",
+  "name": "Bot",
   "version": "1.0.0",
   "description": "a",
   "main": "bot.js",
   "scripts": {
+    "prestart": "infinite-loop build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "RetriquAz",
