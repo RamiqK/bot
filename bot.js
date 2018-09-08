@@ -97,4 +97,4 @@ bot.on('ready', () => {
      console.log('Bot Hazır');
 });    // bot hazır ve bot oyunu
 
-bot.login('NDg1MzU3OTkwMjg3OTAwNjgy.DnT_lg.k_2-3Yh0c7EimL_Cl0mokWdwoN8')
+bot.login(process.env.BOT_TOKEN)
