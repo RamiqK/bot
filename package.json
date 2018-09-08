@@ -1,14 +1,15 @@
 {
-  "name": "bot",
+  "name": "YýkýkBot",
   "version": "1.0.0",
   "description": "a",
   "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "a",
+  "author": "RetriquAz",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.4.2"
+    "discord.js": "^11.4.2",
+    "infinite-loop": "^0.2.2"
   }
 }
