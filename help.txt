@@ -25,6 +25,7 @@ gamze
 sen nesin selom
 hava durumu
 japon
+tokatla @Birisi
 
-Version  2.3
+Version  2.4
 Saçma Sapan bir bot by RetriquAz and RamiqK
